@@ -10,21 +10,21 @@
 
 |Поддерживаемые платформы|Версия платформы||
 |----|-----|-------|
-|Call of Pripyat|1.6.02|
-|Clear Sky|1.5.10|
-|Call of Chernobyl|1.4.22|
-|Call of Chernobyl|1.5 R6|
+|S.T.A.L.K.E.R.: Call of Pripyat|1.6.02|
+|S.T.A.L.K.E.R.: Clear Sky|1.5.10|
+|S.T.A.L.K.E.R.: Call of Chernobyl|1.4.22|
+|S.T.A.L.K.E.R.: Call of Chernobyl|1.5 R6|
 |Anomaly|1.5.2|
 
 |Игра или модификация|Скачать||
 |----|-----|-------|
-|Call of Pripyat 1.6.02|GitHub|
-|Clear Sky 1.5.10|GitHub|
-|Call of Chernobyl 1.4.22|GitHub|
-|Call of Chernobyl 1.5 R6|GitHub|
-|Путь А.н.т.и.к.в.а.р.а 3.5.5.1|GitHub|
-|Global War 0.4|GitHub|
-|Anthology 1.2 + Patch 3|GitHub|
+|S.T.A.L.K.E.R.: Call of Pripyat 1.6.02|GitHub|
+|S.T.A.L.K.E.R.: Clear Sky 1.5.10|GitHub|
+|S.T.A.L.K.E.R.: Call of Chernobyl 1.4.22|GitHub|
+|S.T.A.L.K.E.R.: Call of Chernobyl 1.5 R6|GitHub|
+|S.T.A.L.K.E.R.: Путь А.н.т.и.к.в.а.р.а 3.5.5.1|GitHub|
+|S.T.A.L.K.E.R.: Global War 0.4|GitHub|
+|Anomaly Anthology 1.2 + Patch 3|GitHub|
 |Dollchan 8: Infinity|GitHub|
 |Legend Returns 0.9.2|GitHub|
 
