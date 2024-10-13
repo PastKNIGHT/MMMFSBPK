@@ -18,15 +18,15 @@
 
 |Игра или модификация|Скачать||
 |----|-----|-------|
-|S.T.A.L.K.E.R.: Call of Pripyat 1.6.02|GitHub|
-|S.T.A.L.K.E.R.: Clear Sky 1.5.10|GitHub|
-|S.T.A.L.K.E.R.: Call of Chernobyl 1.4.22|GitHub|
-|S.T.A.L.K.E.R.: Call of Chernobyl 1.5 R6|GitHub|
-|S.T.A.L.K.E.R.: Путь А.н.т.и.к.в.а.р.а 3.5.5.1|GitHub|
-|S.T.A.L.K.E.R.: Global War 0.4|GitHub|
-|Anomaly Anthology 1.2 + Patch 3|GitHub|
-|Dollchan 8: Infinity|GitHub|
-|Legend Returns 0.9.2|GitHub|
+|S.T.A.L.K.E.R.: Call of Pripyat 1.6.02|[GitHub](https://github.com/PastKNIGHT/MMMFSBPK/releases/tag/CoP1.6.02)|
+|S.T.A.L.K.E.R.: Clear Sky 1.5.10|[GitHub](https://github.com/PastKNIGHT/MMMFSBPK/releases/tag/CS1.5.10)|
+|S.T.A.L.K.E.R.: Call of Chernobyl 1.4.22|[GitHub](https://github.com/PastKNIGHT/MMMFSBPK/releases/tag/CoC1.4.22)|
+|S.T.A.L.K.E.R.: Call of Chernobyl 1.5 R6|[GitHub](https://github.com/PastKNIGHT/MMMFSBPK/releases/tag/CoC1.5R6)|
+|S.T.A.L.K.E.R.: Путь А.н.т.и.к.в.а.р.а 3.5.5.1|[GitHub](https://github.com/PastKNIGHT/MMMFSBPK/releases/tag/ANTIGUARY)|
+|S.T.A.L.K.E.R.: Global War 0.4|[GitHub](https://github.com/PastKNIGHT/MMMFSBPK/releases/tag/GW0.4)|
+|Anomaly Anthology 1.2 + Patch 3|[GitHub](https://github.com/PastKNIGHT/MMMFSBPK/releases/tag/Anthology)|
+|Dollchan 8: Infinity|[GitHub](https://github.com/PastKNIGHT/MMMFSBPK/releases/tag/D8I)|
+|Legend Returns 0.9.2|[GitHub](https://github.com/PastKNIGHT/MMMFSBPK/releases/tag/LR0.9.2)|
 
 ### Список треков:
 |Название трека|Название файла||
