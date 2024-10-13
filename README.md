@@ -16,7 +16,7 @@
 
 |Игра или модификация|Скачать||
 |----|-----|-------|
-|Путь А.н.т.и.к.в.а.р.а 3.5.5.1|GitHub|
+|Путь А.н.т.и.к.в.а.р.а 3.5.5.1|[GitHub](https://github.com/PastKNIGHT/mmmfsbpk/releases/tag/3.5.5.1)|
 |Global War 0.4|GitHub|
 |Anthology 1.2 + Patch 3|GitHub|
 
