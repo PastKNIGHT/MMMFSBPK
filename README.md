@@ -6,7 +6,7 @@
 
 Дата выхода: 31.08.2024
 
-Автор и благодарности: PastKNIGHT, a_kot, hyper174, maks7231, alcatraz396 и grauphed21s
+Автор и благодарности: PastKNIGHT, a_kot, hyper174, maks7231, alcatraz396 и Grob.
 
 |Поддерживаемые платформы|Версия платформы||
 |----|-----|-------|
