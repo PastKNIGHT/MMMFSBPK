@@ -27,6 +27,7 @@
 |Anomaly Anthology 1.2 + Patch 3|[GitHub](https://github.com/PastKNIGHT/MMMFSBPK/releases/tag/Anthology)|
 |Dollchan 8: Infinity|[GitHub](https://github.com/PastKNIGHT/MMMFSBPK/releases/tag/D8I)|
 |Legend Returns 0.9.2|[GitHub](https://github.com/PastKNIGHT/MMMFSBPK/releases/tag/LR0.9.2)|
+|Improved Weapon Pack|[GitHub](https://github.com/PastKNIGHT/MMMFSBPK/releases/tag/IWP)|
 
 ### Список треков:
 |Название трека|Название файла||
