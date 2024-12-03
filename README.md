@@ -49,6 +49,6 @@
 |Mark Erman - The World of Mirrors (Из сериала "Закрытая Школа")|menu_14.ogg|
 |Исполнителя не удалось найти.|menu_15.ogg|
 |Pain of The Past - Main Menu Theme|menu_16.ogg|
-|Исполнителя не удалось найти.|menu_17.ogg|
+|Kreazot-Maks - Contorted Horizon|menu_17.ogg|
 |Alexey Omelchuk - Hospital.|menu_18.ogg|
 |Mooze - Wasteland.|menu_19.ogg|
